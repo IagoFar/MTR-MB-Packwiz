@@ -141,11 +141,6 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "3702e7d4d2771e47fc4fb446f2b97e2c5e4ede6cb9e92cef32a4d155edc0c37f"
 metafile = true
