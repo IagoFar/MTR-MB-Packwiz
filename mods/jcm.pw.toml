@@ -1,0 +1,13 @@
+name = "Joban Client Mod"
+filename = "JCM-2.0.0-beta.5+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/8UvbAh7w/JCM-2.0.0-beta.5%2B1.20.4.jar"
+hash-format = "sha1"
+hash = "4112ff1255e3cc1815bd8cfecbb29a0869f3a096"
+
+[update]
+[update.modrinth]
+mod-id = "lQqKCDhg"
+version = "8UvbAh7w"
