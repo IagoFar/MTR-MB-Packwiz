@@ -151,11 +151,6 @@ hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
 
 [[files]]
-file = "mods/station-decoration.pw.toml"
-hash = "98733c3a2ae2e034a700a50e291aa8e5b642abe69938c25b48da2b9562d6de3c"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "3200794bd60930c107145b4b89eda6a56473ca6f8e9b18462cd62713a2a688c8"
 metafile = true
