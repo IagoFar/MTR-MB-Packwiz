@@ -1,0 +1,13 @@
+name = "Fusion (Connected Textures)"
+filename = "fusion-1.1.1-fabric-mc1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/TIXGDm8a/fusion-1.1.1-fabric-mc1.20.4.jar"
+hash-format = "sha1"
+hash = "548a2723f0fa52eff3e9bcebd5f9366380406821"
+
+[update]
+[update.modrinth]
+mod-id = "p19vrgc2"
+version = "TIXGDm8a"

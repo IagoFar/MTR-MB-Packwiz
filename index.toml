@@ -61,8 +61,18 @@ hash = "dc16bea52f249d03468c8f34ca625b089f163917dbed55ff785a9c09ebe39d3a"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "3e7023046cad2b1173ccff2d8cda898334bf58f563b4e017760ccf36bfe06344"
 metafile = true
 
 [[files]]
@@ -131,6 +141,11 @@ hash = "d47315d80ca46f438093b56ea56b868109357ab35ab0e5938630b20c5bdbb8dd"
 metafile = true
 
 [[files]]
+file = "mods/mishang-urban-construction.pw.toml"
+hash = "3de490835fbc8b508202b728235dafaddc846f5dac105d0a3bcd20267de3e48c"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
 metafile = true
@@ -146,8 +161,23 @@ hash = "3702e7d4d2771e47fc4fb446f2b97e2c5e4ede6cb9e92cef32a4d155edc0c37f"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "fad1ecdab969cd8c3f9acd9b4be802c4ad636720657239650da1d72d78df8ded"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "f17a3b340c9e1535dce9a81a2f6d4a069dfd3defdcbbc6eb005bb6494a900c02"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "60467fec75eb3e6580d47eac709897d1ed8f023bccc3e527307c23f9e28ad7b6"
 metafile = true
 
 [[files]]
