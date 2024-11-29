@@ -166,6 +166,11 @@ hash = "fad1ecdab969cd8c3f9acd9b4be802c4ad636720657239650da1d72d78df8ded"
 metafile = true
 
 [[files]]
+file = "mods/reframed.pw.toml"
+hash = "520d6b787f55aa8863a4afc53c309384f6f3c6cadbc46265a39260d96de7c4d7"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "3227928d92806847f3782a9d44bae63a22f00268ead7a91ab980352dc8bbf1d7"
 metafile = true
