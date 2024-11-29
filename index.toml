@@ -26,11 +26,6 @@ hash = "1a7b8e8b5b90470c1ca8b5dd2eaf71080651f78996cc7c1c66abc1dc02420e43"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "d705afd48210ba6dfb19a5b3bee6d7372f5654b90572ddd6f4d4ae0de955c2fb"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "eedead342bdd4f2b7aa9d148641a7b8ce7f54ef0d68e49ed82e0c5541a8fe7bf"
 metafile = true
