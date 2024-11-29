@@ -6,6 +6,11 @@ hash = "ca63ce874bfc05a802fbc7ce2fc20c82be3c037cd53921c07ba56ada90652ee9"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "36eff4e6316ffeb02187083c7d9b56ea81e1c12040bd232e8d45c3f72f4b2e1e"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "8f425335acf702221b18ba13af77dd0d895f4a99fbac90620912bcfe226749f8"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "1a7b8e8b5b90470c1ca8b5dd2eaf71080651f78996cc7c1c66abc1dc02420e43"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "d705afd48210ba6dfb19a5b3bee6d7372f5654b90572ddd6f4d4ae0de955c2fb"
 metafile = true
 
 [[files]]
@@ -163,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "fad1ecdab969cd8c3f9acd9b4be802c4ad636720657239650da1d72d78df8ded"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3227928d92806847f3782a9d44bae63a22f00268ead7a91ab980352dc8bbf1d7"
 metafile = true
 
 [[files]]
